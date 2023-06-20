@@ -1,7 +1,7 @@
 #include "main.h"
 /**
  * times_table - time table to 9
- * 
+ *
  * Return: n
  */
 void times_table(void)
