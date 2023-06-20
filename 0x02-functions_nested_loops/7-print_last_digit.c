@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * int print_last_digit - to brint last digit
+ * print_last_digit - to brint last digit
  * @n: integer
  * Return: n
  */
