@@ -1,0 +1,12 @@
+#include <iostream>
+/**
+ * main - Entry point
+ *
+ * Return: always 0 (success)
+ */
+
+int main (void)
+{ 
+  cout << "_putchar" << "\n";
+  return (0);
+}
